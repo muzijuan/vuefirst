@@ -1,6 +1,6 @@
 <template>
-  <div>
-      Hello Vue
+  <div class="container">
+    搜索
   </div>
 </template>
 
